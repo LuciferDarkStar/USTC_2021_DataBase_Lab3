@@ -156,7 +156,7 @@ class Ui_Form(object):
         self.label_17.setText(_translate("Form", "<html><head/><body><p align=\"right\"><span style=\" color:#000000;\">透支额度：</span></p></body></html>"))
         self.label_15.setText(_translate("Form", "<html><head/><body><p align=\"right\"><span style=\" color:#000000;\">利率：</span></p></body></html>"))
         self.label_16.setText(_translate("Form", "<html><head/><body><p><span style=\" color:#000000;\">货币类型：</span></p></body></html>"))
-        self.comboBox_3.setItemText(0, _translate("Form", "人名币"))
+        self.comboBox_3.setItemText(0, _translate("Form", "人民币"))
         self.comboBox_3.setItemText(1, _translate("Form", "美元"))
         self.comboBox_3.setItemText(2, _translate("Form", "欧元"))
         self.label_13.setText(_translate("Form", "<html><head/><body><p><span style=\" color:#000000;\">开户日期：</span></p></body></html>"))

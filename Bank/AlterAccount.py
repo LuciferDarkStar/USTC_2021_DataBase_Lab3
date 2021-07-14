@@ -38,7 +38,7 @@ class alter_account(QWidget):
                     self.ui.pushButton_2.setEnabled(True)
                     self.ui.lineEdit_2.setText(str(info1[1]))
                     self.ui.lineEdit_3.setText(str(info1[4]))
-                    if str(info1[5])=="人名币":
+                    if str(info1[5])=="人民币":
                         self.ui.comboBox_3.setCurrentIndex(0)
                     elif str(info1[5])=="美元":
                         self.ui.comboBox_3.setCurrentIndex(1)

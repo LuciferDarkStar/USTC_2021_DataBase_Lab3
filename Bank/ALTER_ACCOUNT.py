@@ -113,7 +113,7 @@ class Ui_Form(object):
         self.label_3.setText(_translate("Form", "余额："))
         self.label_4.setText(_translate("Form", "利率："))
         self.label_16.setText(_translate("Form", "<html><head/><body><p><span style=\" color:#000000;\">货币类型：</span></p></body></html>"))
-        self.comboBox_3.setItemText(0, _translate("Form", "人名币"))
+        self.comboBox_3.setItemText(0, _translate("Form", "人民币"))
         self.comboBox_3.setItemText(1, _translate("Form", "美元"))
         self.comboBox_3.setItemText(2, _translate("Form", "欧元"))
         self.label_5.setText(_translate("Form", "透支额度："))

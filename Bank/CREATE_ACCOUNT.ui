@@ -135,7 +135,7 @@
          <widget class="QComboBox" name="comboBox_3">
           <item>
            <property name="text">
-            <string>人名币</string>
+            <string>人民币</string>
            </property>
           </item>
           <item>
